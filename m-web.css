@@ -80,7 +80,7 @@ body {
             to bottom, 
             rgba(43, 41, 41, 0.89), 
             rgba(43, 41, 41, 0.768)
-      ),url("images/images.jpg");
+      ),url("images.jpg");
       background-repeat: no-repeat;
       background-size: cover;
 }
@@ -165,7 +165,7 @@ hr {
             to bottom, 
             rgba(43, 41, 41, 0.89), 
             rgba(43, 41, 41, 0.768)
-          ),url("images/icon.jpg");
+          ),url("icon.jpg");
           background-repeat: no-repeat;
           background-size: cover;
 }
